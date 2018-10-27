@@ -1,6 +1,6 @@
-# Jira
+# Jira (e-Portfolio)
 
-The PowerPoint contains a kind of short guide to the most important functions of Jira.
+This document contains a kind of short guide to the most important functions of Jira. In our slides you can find more pictures with keywords. Also you have a possibility to use our demo for better imagination to work with this tool.
 
 ## Table of contents
 
