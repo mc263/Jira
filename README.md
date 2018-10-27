@@ -1,6 +1,6 @@
 # Jira (e-Portfolio)
 
-This document contains a kind of short guide to the most important functions of Jira and also a more detailed part about logging work. In our slides you can find more pictures with keywords. Also you have a possibility to use our demo for better imagination to work with this tool.
+This document contains a kind of short guide to the most important functions of Jira and also a more detailed part about logging work. In our slides you can find more pictures with keywords, when you open the pptx-file you will find more information in the notes. Also you have a possibility to use our demo for better imagination to work with this tool.
 
 ## Table of contents
 
