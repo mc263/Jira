@@ -4,13 +4,23 @@ The PowerPoint contains a kind of short guide to the most important functions of
 
 ## Table of contents
 
-1. About Jira
-1.1 Log in
-2. Basics
-2.1 Create a project
-2.2 Create a board
-2.2.1 Kanban
-2.2.2 Scrum
+[1. About Jira](#1-about-jira)</br>
+ [1.1 Log in](#11-log-in)</br>
+[2. Basics](#2-basics)</br>
+ [2.1 Create a project](#21-create-a-project)</br>
+ [2.2 Create a board](#22-create-a-board)</br>
+  [2.2.1 Kanban](#221-kanban)</br>
+  [2.2.2 Scrum](#222-scrum)</br>
+ [2.3 Create an issue](#23-create-an-issue)</br>
+  [2.3.1 Create a subtask](#231-create-a-subtask)</br>
+[3. Sprint](#3-sprint)</br>
+ [3.1 Work with a sprint](#31-work-with-a-sprint)</br>
+ [3.2 Settings](#32-settings)</br>
+ [3.3 Complete an issue](#33-complete-an-issue)</br>
+ [3.4 Burndown chart](#34-burndown-chart)</br>
+[4. Log work](#4-log-work)</br>
+[5. Users](#5-users)</br>
+ [5.1 Project leader](#51-project-leader)</br>
 
 ## 1. About Jira
 
@@ -87,27 +97,27 @@ Press start sprint. After that should you can set the time and name for it. It w
 If you go to active sprints, there will be 3 Columns: To Do, In Progress, Done. Also you have the possibility to add Columns.
 Choose the status from the left, drag it and drop it at the desired place.
 
-### 3.3 Log work
+### 3.3 Complete an issue
+
+As mentioned before there is drag and drop system, for completing an issue just drag it and drop it into the "done"-section. 
+If all tasks of a Story are being completed, JIRA will ask you automatically to resolve the parent issue as well.
+
+### 3.4 Burndown chart
+
+In your Scrum-board-menue you can find "reports". In this section you will see different charts for your project. The most important is the burndown chart, it displays the chart for the current Sprint. 
+You can use it with story points or only the estimated time vers. The time needed.
+
+## 4. Log work
 
 While you create an issue you can estimate how long this issue will take.If you worked on that issue you can log the time you needed on it. This is a very useful tool to keep track of the time you needed andd it will help you to illustrate your workflow in charts, which will be mentioned a little later.
 
 ....................................
 
-### 3.4 Complete an issue
-
-As mentioned before there is drag and drop system, for completing an issue just drag it and drop it into the "done"-section. 
-If all tasks of a Story are being completed, JIRA will ask you automatically to resolve the parent issue as well.
-
-### 3.5 Burndown chart
-
-In your Scrum-board-menue you can find "reports". In this section you will see different charts for your project. The most important is the burndown chart, it displays the chart for the current Sprint. 
-You can use it with story points or only the estimated time vers. The time needed.
-
-## 4. Users
+## 5. Users
 
 Because you mostly wouldn’t do a project alone, it's important to add people. So that they can use the boards and the issues as well.
 The only thing that is needed is the email address that the persons to be added used for registration.
 
-### 4.1 Project leader
+### 5.1 Project leader
 
 You can select a project leader and if he should be assigned automatically when creating issues.
