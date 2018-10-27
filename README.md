@@ -109,9 +109,42 @@ You can use it with story points or only the estimated time vers. The time neede
 
 ## 4. Log work
 
-While you create an issue you can estimate how long this issue will take.If you worked on that issue you can log the time you needed on it. This is a very useful tool to keep track of the time you needed andd it will help you to illustrate your workflow in charts, which will be mentioned a little later.
+This is a very useful tool to keep track of the time you needed andd it will help you to illustrate your workflow in charts, which will be mentioned a little later.
 
-....................................
+While creating an Issue you can see different Fields one the right, if you scroll down and click on „show more“.
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-show-more.png)
+
+Then it will show more fields, the important for us is the „Zeitschätzung“, by a simple click you have the option to entert he time you think this issue will take.
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-estimation.PNG)
+
+After that it is time to work at the topic which is mentioned in the ticket and after that you should log your work. Just click on the field „Zeiterfassung“.
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-time-tracking.png)
+
+Now it will open a window where you can entert he time you worked and also see the remaining time.
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-tracking-details.png)
+
+You can also change the time when do you started to work and write a description.
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-tracking-details2.png)
+
+It is also possible to log more work then it was estimated.
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-tracking-details3.png)
+
+If you finished you work and logged all your time you can drag and drop them in the right column.
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-tracking-finish.png)
+
+If you want you can now manually end your sprint, jira will ask you if you are sure and show you how many tickets are done and how many are not.
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-tracking-finish-notification.png)
+
+Now you can go over the Navigation from Berichte -> Burndown-Diagramm, here you can see a graphical overview of your workflow. In our Example it cant show us a interesting diagramm because we created, logged and finished all tickets at one day.
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-burndown-chart.png)
 
 ## 5. Users
 
