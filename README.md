@@ -4,7 +4,13 @@ The PowerPoint contains a kind of short guide to the most important functions of
 
 ## Table of contents
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+1. About Jira
+1.1 Log in
+2. Basics
+2.1 Create a project
+2.2 Create a board
+2.2.1 Kanban
+2.2.2 Scrum
 
 ## 1. About Jira
 
