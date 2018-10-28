@@ -31,6 +31,8 @@ Jira isn’t a freeware, but even very large and well-known companies are trusti
 
 We recommend to choose the 7-day free trial version from de.atlassian.com/software/jira/try. Choose the free Jira Software (on the left) and fill in your data. To use it longer, you need a license. 
 
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/login.PNG)
+
 ## 2. Basics
 
 A project contains boards, which in turn displays the issues. 
@@ -46,15 +48,21 @@ Here you can enter the name, key, project type, category and a description.
 
 ### 2.2 Create a board
 
-To do this, open the created project and use the drop-down menu to create a new board. Also there are some other possibilities, like searching boards or showing all existing boards.If you have created a board, you have the choice between Scrum and Kanban. 
+To create a board, open the created project and use the drop-down menu to create a new board. Also there are some other possibilities, like searching boards or showing all existing boards.If you have created a board, you have the choice between Scrum and Kanban. 
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/kanban-scrum.PNG)
 
 #### 2.2.1 Kanban
 
-Kanban is more a workflow visualization and useful when you're making changes to an existing project or when you have a fixed goal. 
+Kanban is more a workflow visualization and useful when you're making changes to an existing project or when you have a fixed goal.
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/kanban.PNG)
 
 #### 2.2.2 Scrum
 
 Scrum in turn is more used for software engineering because of the possibility of creating sprints or for projects whose goals have not yet been defined.
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/scrum.PNG)
 
 ### 2.3 Create an issue
 
@@ -76,9 +84,21 @@ The most of them are self-speaking, like “open” or “in work”. Building m
 
 Also there are some more sections, like the description, etc. 
 
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/create-issue.PNG)
+
 #### 2.3.1 Create a subtask
 
 In Jira you also can create subtasks for every process type. Just open the issue and click on the symbol.
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/create-subtask.PNG)
+
+Fill in the needed sections:
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/subtask.PNG)
+
+View in Backlog:
+
+![alt text](https://github.com/mc263/Jira/blob/master/pictures/subtask-progress.PNG)
 
 ## 3. Sprint
 
