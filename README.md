@@ -1,6 +1,6 @@
 # Jira (e-Portfolio)
 
-This document contains a kind of short guide to the most important functions of Jira and also a more detailed part about logging work. In our slides you can find more pictures with keywords, when you open the pptx-file you will find more information in the notes. Also you have a possibility to use our demo for better imagination to work with this tool.
+This document contains a kind of short guide to the most important functions of Jira and also a more detailed part about logging work. In our slides you can find more pictures with keywords, when you open the pptx-file you will find more information in the notes. Also you have a possibility to use [our demo](https://jiratinf16b4.it.dh-karlsruhe.de:8443/browse/JB-1?workflowName=Software+Simplified+Workflow+for+Project+JB&stepId=6) for better imagination to work with this tool.
 
 ## Table of contents
 
@@ -66,7 +66,7 @@ Scrum in turn is more used for software engineering because of the possibility o
 
 ### 2.3 Create an issue
 
-To create a new issue, click on the plus sign on the left side. A window will open with some sections to fill in, for example the assignment to a project and the selection between four different task types: 
+To create a new issue, click on the plus sign on the left side or on the "create" button. A window will open with some sections to fill in, for example the assignment to a project and the selection between four different task types: 
 * Epic: It will be chosen for larger amount of work with more than a single Use-Case or stories.
 * Story: It contains a number of tasks that fit together and the progress-type is often choosen as a use-case. The progress-type is often choosen as a use-case. Within a created Story, you could define an Epic.
 * Task: It will be chosen for "normal" tasks which are needed to be done.
@@ -102,11 +102,12 @@ View in Backlog:
 
 ## 3. Sprint
 
-A Sprint is a process within the projekt management method scrum (so you will need a scrum-board). It's a periode of time with selected tickets, which are to be done until the sprint ends. The duration can vary, but it is usually between 2 and 4 weeks. With this feature you have a easy coordination of the team.
+A Sprint is a process within the projekt management method scrum (so you will need a scrum-board). It's a periode of time with selected tickets, which are needed to be done until the sprint ends. The duration can vary, but it is usually between 2 and 4 weeks. 
+With this feature you have a easy coordination of the team.
 
 ### 3.1 Work with a sprint
 
-Open the Backlog to see the overview of features and the sprint management. Here you can create an issue and have the possibility to set different fields e.g. “Issue Links” there can be set links between different issues. Jira will not however check if you do these issues in the right order.
+Open the Backlog to see the overview of features and the sprint management. Here you can create an issue and have the possibility to set different fields. E.g. “Issue Links” to set links between different issues. Jira will not however check if you do these issues in the right order.
  
 ### 3.2 Settings
 
@@ -129,46 +130,46 @@ You can use it with story points or only the estimated time vers. The time neede
 
 ## 4. Log work
 
-This is a very useful tool to keep track of the time you needed andd it will help you to illustrate your workflow in charts, which will be mentioned a little later.
+This is a very useful tool to keep track of the time you needed and it will help you to illustrate your workflow in charts, which will be mentioned a little later.
 
-While creating an Issue you can see different Fields one the right, if you scroll down and click on „show more“.
+While creating an issue you can see different fields one the right. Click on „show more“.
 ![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-show-more.png)
 
-Then it will show more fields, the important for us is the „Zeitschätzung“, by a simple click you have the option to entert he time you think this issue will take.
+It will show more fields, the important for us is the estimation ("Zeitschätzung"), by a simple click you have the option to enter the time you think this issue will take.
 
 ![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-estimation.PNG)
 
-After that it is time to work at the topic which is mentioned in the ticket and after that you should log your work. Just click on the field „Zeiterfassung“.
+Now it is time to work on this issue. When you've finished you should log your work. Just click on the field where you can track your time ("Zeiterfassung").
 
 ![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-time-tracking.png)
 
-Now it will open a window where you can entert he time you worked and also see the remaining time.
+It will open a window where you can enter the time you worked and also see the remaining time.
 
 ![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-tracking-details.png)
 
-You can also change the time when do you started to work and write a description.
+You can change the time you started working and add a description.
 
 ![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-tracking-details2.png)
 
-It is also possible to log more work then it was estimated.
+It is also possible to enter more time than the estimated time.
 
 ![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-tracking-details3.png)
 
-If you finished you work and logged all your time you can drag and drop them in the right column.
+If you've finished your work and logged all your time, you can drag and drop them in the right column ("done").
 
 ![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-tracking-finish.png)
 
-If you want you can now manually end your sprint, jira will ask you if you are sure and show you how many tickets are done and how many are not.
+You can manually end your sprint now, Jira will show you how many tickets are done or not done.
 
 ![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-tracking-finish-notification.png)
 
-Now you can go over the Navigation from Berichte -> Burndown-Diagramm, here you can see a graphical overview of your workflow. In our Example it cant show us a interesting diagramm because we created, logged and finished all tickets at one day.
+Now you can navigate from reports ("Berichte") to "burndown-diagram", to see a graphical overview of your workflow. In our example it can't show us a interesting diagram because we created, logged and finished all tickets at one day.
 
 ![alt text](https://github.com/mc263/Jira/blob/master/pictures/log-burndown-chart.png)
 
 ## 5. Users
 
-Because you mostly wouldn’t do a project alone, it's important to add people. So that they can use the boards and the issues as well.
+Because you mostly wouldn’t do a project alone, it could be useful to add people. So that they can use the boards and issues as well.
 The only thing that is needed is the email address that the persons to be added used for registration.
 
 ### 5.1 Project leader
